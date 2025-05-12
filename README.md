@@ -1,4 +1,4 @@
-# 📊 Ethereum Wallet Behavior Explorer
+# 📊 ETHWalletInsight - Ethereum Wallet Behavior Explorer
 
 An interactive Ethereum wallet analytics dashboard built with **Python**, **Streamlit**, and **Plotly**.
 
